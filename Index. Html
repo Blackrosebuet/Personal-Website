@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Environmental Specialist</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Your Name</h1>
+        <p>Environmental Specialist in Mega Projects</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#about">About Me</a></li>
+            <li><a href="#expertise">Expertise</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#publications">Publications</a></li>
+            <li><a href="#blog">Blog</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="about">
+            <h2>About Me</h2>
+            <p>Brief bio here.</p>
+        </section>
+        <section id="expertise">
+            <h2>Areas of Expertise</h2>
+            <ul>
+                <li>Railway Development</li>
+                <li>Road Construction</li>
+                <li>Bridge Development</li>
+                <li>Environmental Impact Assessments (EIA)</li>
+                <li>Sustainable Practices</li>
+                <li>Regulatory Compliance</li>
+            </ul>
+        </section>
+        <section id="projects">
+            <h2>Projects</h2>
+            <p>Details of major projects.</p>
+        </section>
+        <section id="publications">
+            <h2>Publications & Resources</h2>
+            <p>Links to articles or papers.</p>
+        </section>
+        <section id="blog">
+            <h2>Blog/Insights</h2>
+            <p>Latest insights on environmental issues.</p>
+        </section>
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>Contact form here.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Your Name</p>
+    </footer>
+</body>
+</html>
